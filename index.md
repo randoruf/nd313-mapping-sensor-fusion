@@ -42,6 +42,8 @@
 
 [Robotics: Estimation and Learning | Coursera](https://www.coursera.org/learn/robotics-learning?specialization=robotics)
 
+- https://ran.moe/nd313-mapping-sensor-fusion/estimation_and_mapping/
+
 [Robotics: Capstone | Coursera](https://www.coursera.org/learn/robotics-capstone?specialization=robotics)
 
 
