@@ -32,19 +32,19 @@
 
 宾州大学在 Coursera 的课是最实用的， 比其他很多课程都有用。建议全部学习
 
-[Robotics | Coursera](https://www.coursera.org/specializations/robotics) 
+[Robotics  Coursera](https://www.coursera.org/specializations/robotics) 
 
-[Robotics: Aerial Robotics | Coursera](https://www.coursera.org/learn/robotics-flight?specialization=robotics)
+[Robotics: Aerial Robotics  Coursera](https://www.coursera.org/learn/robotics-flight?specialization=robotics)
 
-[Robotics: Computational Motion Planning | Coursera](https://www.coursera.org/learn/robotics-motion-planning?specialization=robotics)
+[Robotics: Computational Motion Planning  Coursera](https://www.coursera.org/learn/robotics-motion-planning?specialization=robotics)
 
-[Robotics: Mobility | Coursera](https://www.coursera.org/learn/robotics-mobility?specialization=robotics)
+[Robotics: Mobility  Coursera](https://www.coursera.org/learn/robotics-mobility?specialization=robotics)
 
-[Robotics: Estimation and Learning | Coursera](https://www.coursera.org/learn/robotics-learning?specialization=robotics)
+[Robotics: Estimation and Learning  Coursera](https://www.coursera.org/learn/robotics-learning?specialization=robotics)
 
 - https://ran.moe/nd313-mapping-sensor-fusion/estimation_and_mapping/
 
-[Robotics: Capstone | Coursera](https://www.coursera.org/learn/robotics-capstone?specialization=robotics)
+[Robotics: Capstone Coursera](https://www.coursera.org/learn/robotics-capstone?specialization=robotics)
 
 
 
