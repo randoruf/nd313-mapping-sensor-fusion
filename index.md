@@ -26,7 +26,27 @@
 
 所以读大学的话， 选择 美国的大学 和 加澳那些大学的感受很不同，**最起码我能感觉在美国的大学是能学到东西的**。
 
- 
+---
+
+## 机器人学入门
+
+宾州大学在 Coursera 的课是最实用的， 比其他很多课程都有用。建议全部学习
+
+[Robotics | Coursera](https://www.coursera.org/specializations/robotics) 
+
+[Robotics: Aerial Robotics | Coursera](https://www.coursera.org/learn/robotics-flight?specialization=robotics)
+
+[Robotics: Computational Motion Planning | Coursera](https://www.coursera.org/learn/robotics-motion-planning?specialization=robotics)
+
+[Robotics: Mobility | Coursera](https://www.coursera.org/learn/robotics-mobility?specialization=robotics)
+
+[Robotics: Estimation and Learning | Coursera](https://www.coursera.org/learn/robotics-learning?specialization=robotics)
+
+[Robotics: Capstone | Coursera](https://www.coursera.org/learn/robotics-capstone?specialization=robotics)
+
+
+
+
 
 ---
 
