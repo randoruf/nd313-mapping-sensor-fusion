@@ -4,6 +4,8 @@
 
 [从高斯分布、机器人误差、EM算法到小球检测 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/21648507)
 
+[目标追踪之卡尔曼滤波 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/21692854)
+
 [占据栅格地图（Occupancy Grid Map） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/21738718)
 
 [蒙特卡罗定位（Particle Filter Localization） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/21974439)

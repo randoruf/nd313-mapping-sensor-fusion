@@ -2,6 +2,8 @@
 
 善始善终，这篇文章是Coursera课程[Robotics: Estimation and Learning](https://link.zhihu.com/?target=https%3A//www.coursera.org/learn/robotics-learning)最后一周的课程总结。里面的小哥讲得不是很清晰，留下的作业很花功夫（第二周课程也是酱紫）。
 
+[蒙特卡罗定位（Particle Filter Localization） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/21974439)
+
 这周讲的是使用蒙特卡罗定位法（Monte Carlo Localization，也作Particle Filter Localization）进行机器人定位（Localization）。这篇总结分为两部分：
 
 - 问题介绍和算法步骤

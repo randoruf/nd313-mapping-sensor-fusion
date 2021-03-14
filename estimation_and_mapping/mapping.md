@@ -2,6 +2,8 @@
 
 写在前面：这篇文章是Coursera上的课程（[Robotics: Estimation and Learning](https://link.zhihu.com/?target=https%3A//www.coursera.org/learn/robotics-learning/home/week/3)），权当笔记，激光传感器的数据可以在课程内下载。**这一周的内容比较简单，但十分实用。**
 
+[占据栅格地图（Occupancy Grid Map） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/21738718)
+
 在这片文章中，我们将会介绍：
 
 - 机器人世界的几种地图；

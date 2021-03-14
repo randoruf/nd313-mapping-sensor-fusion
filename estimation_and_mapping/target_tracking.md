@@ -2,6 +2,8 @@
 
 最近在看Coursera的[robotic learning](https://link.zhihu.com/?target=https%3A//www.coursera.org/learn/robotics-learning/home/week/2)，发现挺有意思的。这里算是做一下week 2的用卡尔曼滤波来做机器人目标追踪的笔记，紧接着上一篇的[《从高斯分布、机器人误差、EM算法到小球检测》](https://zhuanlan.zhihu.com/p/21648507)。
 
+[目标追踪之卡尔曼滤波 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/21692854)
+
 这篇小文章主要有两个内容
 
 1. 怎样用一个卡尔曼滤波对一个线性动力系统进行建模以及求解
